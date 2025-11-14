@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #fff8e1;
+}
+
+#Galery {
+  background-color: #fff8e1;
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+section {
+  padding-top: 5rem;
+}
